@@ -6,6 +6,6 @@
 </head>
 <body>
     This domain has been taked over.
-    @unkn0w3d
+    <a href="https://twitter.com/unkn0w3d">@unkn0w3d.</a>
 </body>
 </html>
